@@ -1,5 +1,4 @@
-import java.util.*;
-import java.lang.Math;
+
 
 public class Main {
 
@@ -7,23 +6,13 @@ public class Main {
 
         System.out.println("Hello, World!");
 
-        //  Type casting
-        double myDouble = 9.78d;
-        int myInt = (int)myDouble;
+        //Notes notes = new Notes();
+        //notes.MyNotes();
+        //Notes.MyNotes();
 
-        //  ++x = x++
+        InheritanceExo1.Animal.makeSound();
+        InheritanceExo1.Cat.makeSound();
 
-        String txt = "Hello";
-        System.out.println(txt.length());
-        System.out.println(txt.toUpperCase());
-        System.out.println(txt.indexOf("x"));
-        System.out.println(txt.concat(txt));
-
-        int time = 20;
-        String result = (time < 18)? "Good day." : "Good evening.";
-        System.out.println(result); 
-
-        
         
 
 

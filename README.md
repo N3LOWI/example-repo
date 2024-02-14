@@ -1,2 +1,2 @@
-# Example read me for example repo
-This is a sample
+# Example repo to test Git and Java things
+Mostly exercices
