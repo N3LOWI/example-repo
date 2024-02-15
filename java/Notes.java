@@ -26,6 +26,22 @@ public class Notes {
         cars.add("Mazda");
         System.out.println(cars);
     }
+
+    /*
+     * Java OOP
+     * Encapsulation - Inheritance - Polymorphism
+     * 
+     * Encapsulation :
+     * The fact of using classes
+     * 
+     * Inheritance :
+     * Parent-Child classes, extending classes, superclasses
+     * 
+     * Polymorphysm :
+     * Overloading + Overriding
+     * 
+     * 
+     */
         
     
 }
