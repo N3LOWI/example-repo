@@ -4,11 +4,6 @@ import java.util.ArrayList;
 public class Notes {
 
     public static void MyNotes(){
-        //  Type casting
-        double myDouble = 9.78d;
-        int myInt = (int)myDouble;
-
-        //  ++x = x++
 
         String txt = "Hello";
         System.out.println(txt.length());

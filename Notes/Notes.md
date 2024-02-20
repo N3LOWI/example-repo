@@ -6,7 +6,7 @@ Parent-Child classes, extending classes, superclasses
 - Polymorphysm : <br>
 Overloading + Overriding <br>
 
-# Polymorphysm
+## Polymorphysm
 - Overload
 ```java
 public class Shape {
@@ -45,9 +45,3 @@ public class Rectangle extends Shape {
         }
     }
 ```
-
-
-
-# TODO
-- [ ] Constructores
-- [x] Abstracción
