@@ -2,8 +2,8 @@
 
 Done so far :
 
-- [ ] Repasos básicos 1
-- [ ] 
+- [x] Repasos básicos 1
+- [x] Overload
 
 WIP :
 
@@ -11,6 +11,8 @@ WIP :
 - [ ] Super()
 - [ ] static instances
 - [ ] constructores
+- [ ] Repasos String
+- [ ] Override
 
 Todo :
 
