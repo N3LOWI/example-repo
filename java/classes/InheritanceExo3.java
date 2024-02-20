@@ -1,3 +1,4 @@
+package classes;
 public class InheritanceExo3 {
 
     public class Shape {

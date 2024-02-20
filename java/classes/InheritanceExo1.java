@@ -1,3 +1,4 @@
+package classes;
 public class InheritanceExo1 {
 
     public class Animal {
